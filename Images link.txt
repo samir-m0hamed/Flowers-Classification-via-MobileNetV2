@@ -1,0 +1,1 @@
+https://storage.cloud.google.com/cloud-ml-data/img/flower_photos/all_data.csv
