@@ -1,1 +1,1 @@
-https://storage.cloud.google.com/cloud-ml-data/img/flower_photos/all_data.csv
+https://drive.google.com/drive/folders/1m7OoOTNtU4teFdqPTRDyKkL4kaxL9ZVJ?usp=sharing
